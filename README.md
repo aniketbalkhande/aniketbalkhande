@@ -57,7 +57,7 @@
 
 <!--   <img align="left" alt="atomic_coder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aniketbalkhande&show_icons=true&hide_border=true&theme=algolia" />
    -->
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketbalkhande&hide=stars&theme=algolia&show_icons=true)
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketbalkhande&hide=stars&theme=algolia&show_icons=true&hide_border=true)
 
 
 
