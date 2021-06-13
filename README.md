@@ -17,6 +17,10 @@
 [<img align="left" alt="codeSTACKr | Hackerrank" width="22px" src="img/hackerrank.svg" />][Hackerrank]
 
 
+[website]: https://aniketbalkhande.pythonanywhere.com
+[instagram]: https://instagram.com/atomic_coder
+[linkedin]: https://linkedin.com/in/aniket-balkhande
+[Hackerrank]: https://www.hackerrank.com/Aniket_SB
 <br />
 
 
@@ -48,16 +52,13 @@
 <br />
 
 </details>
+<br />
+<br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!--   <img align="left" alt="atomic_coder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aniketbalkhande&show_icons=true&hide_border=true&theme=algolia" />
+   -->
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketbalkhande&hide=stars&theme=algolia&show_icons=true)
 
-  <img align="left" alt="atomic_coder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aniketbalkhande&show_icons=true&hide_border=true" />
 
-</details>
 
-[website]: https://aniketbalkhande.pythonanywhere.com
 
-[instagram]: https://instagram.com/atomic_coder
-[linkedin]: https://linkedin.com/in/aniket-balkhande
-[Hackerrank]: https://www.hackerrank.com/Aniket_SB
