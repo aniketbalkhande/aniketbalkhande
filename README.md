@@ -1,13 +1,12 @@
 ### Hi there, I'm Aniket - aka [atomic_coder][website] 👋
 
 ## Always a Student, Software Engineer by profession. 
-<Full Stack Angular Developer !!>
+<!-- Full Stack Angular Developer !! -->
 
-<- 🌱 I’m currently  🤣>
-<- 👯 I’m looking to collaborate with other content creators>
+<!-- 🌱 I’m currently  🤣  👯 I’m looking to collaborate with other content creators>
 <- 🥅 2021 Goals: Build my network on social platforms>
 
-<### Connect with me:>
+<### Connect with me:> -->
 
 [<img align="left" alt="aniketbalkhande.pythonanywhere.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
