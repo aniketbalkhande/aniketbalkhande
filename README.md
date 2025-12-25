@@ -1,58 +1,63 @@
-### Hi there, I'm Aniket - aka [atomic_coder][website] 👋
+# Hi, I'm Aniket Balkhande 👋
 
-## Always a Student, Software Engineer by profession. 
-<!-- Full Stack Angular Developer !! -->
+**Software Engineer | Backend-Focused | .NET Core Web API | Azure (AZ-204) | Angular (Exposure)**
 
-<!-- 🌱 I’m currently  🤣  👯 I’m looking to collaborate with other content creators>
-<- 🥅 2021 Goals: Build my network on social platforms>
+I am a software engineer with **4.3+ years of professional experience** building and maintaining **scalable, secure, and high-performance web applications** using **ASP.NET Core, C#, SQL Server, and RESTful APIs**.  
+I currently work in a MNC on **enterprise reinsurance applications**, contributing to **modernization, cloud migration, and backend feature development**.
 
-<### Connect with me:> -->
+> ⚠️ This GitHub profile contains **side projects and learning-focused implementations**, built to reflect real-world engineering practices.
 
-[<img align="left" alt="aniketbalkhande.pythonanywhere.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+---
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🧠 Professional Summary
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 4.3+ years of experience in **backend engineering**
+- Strong in **ASP.NET Core Web API, C#, SQL Server**
+- Hands-on experience with **Microsoft Azure** (AZ-204 certified)
+- Worked on **2 modernization projects** and **1 cloud migration project**
+- Experience with **Angular** for full-stack delivery
+- Comfortable working in **Agile / Scrum** teams
+- Focus on **clean architecture, maintainability, and performance**
 
-[<img align="left" alt="codeSTACKr | Hackerrank" width="22px" src="img/hackerrank.svg" />][Hackerrank]
+---
 
+## 🛠️ Technical Skills
 
-[website]: https://aniketbalkhande.pythonanywhere.com
-[instagram]: https://instagram.com/atomic_coder
-[linkedin]: https://linkedin.com/in/aniket-balkhande
-[Hackerrank]: https://www.hackerrank.com/Aniket_SB
-<br />
+### Backend
+- .NET / C#
+- ASP.NET Core Web API
+- RESTful API Design
+- Entity Framework Core
+- SQL Server
 
+### Frontend
+- Angular
+- TypeScript
+- Bootstrap
 
-### Languages and Tools:
+### Cloud (Azure)
+- Azure App Service
+- Azure Blob Storage
+- Azure Service Bus
+- Azure Functions
+- Azure Key Vault
+- Azure Application Insights
+- Azure EntraID 
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="C++"  title="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C#"  title="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt=".Net Core"  title=".Net Core" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="django" title="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="AngularJs" title="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub"  title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-</details>
-<br />
-<br />
-
-<!--   <img align="left" alt="atomic_coder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aniketbalkhande&show_icons=true&hide_border=true&theme=algolia" />
-   -->
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketbalkhande&hide=stars&theme=algolia&show_icons=true&hide_border=true)
+### Tools & Practices
+- Visual Studio, VS Code
+- Git & GitHub
+- Postman, SSMS
+- Agile / Scrum
+- CI/CD (basic exposure)
 
 
+## 🤝 Connect With Me
 
+- 📧 Email: aniketbalkhande07@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/aniket-balkhande
+- 💻 GitHub: https://github.com/aniketbalkhande
 
+---
+
+> 💡 This profile represents continuous learning through real-world projects and professional experience.
